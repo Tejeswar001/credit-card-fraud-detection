@@ -42,7 +42,17 @@ Trained models are saved as:
 ---
 
 ## 📣 Conclusion
-Both models performed well, with **XGBoost** showing slightly better accuracy and precision. The project demonstrates a full ML pipeline from preprocessing to model deployment.
+Both models performed well, with **XGBoost** showing slightly better accuracy and precision. The project demonstrates a full ML pipeline from preprocessing to model deployment
+
+---
+
+
+##  Add 🔮 Future Improvements
+- Deploy model using Flask / FastAPI
+- Integrate real-time fraud detection API
+- Use Deep Learning models (LSTM for sequential patterns)
+- Hyperparameter tuning using Optuna
+- Add Explainability (SHAP / LIME)
 
 ---
 
